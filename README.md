@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT-->
 ## About The Project
 
-This is a GUI based project to manage a typical hostel in Dhaka city. Where students live together and manages everything. This is a small project to maintain their accounts for the hostel.
+This is a GUI based project to manage a restaurant. It offers servies like puting order, see your order status, owner dashboard for delivering the order.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -23,15 +23,16 @@ This is a GUI based project to manage a typical hostel in Dhaka city. Where stud
 
 ---
 ## Features: 
-  * Show All inforamtion to all. 
+### Customer
+  * Homepage
+  * Order taking menu.
+  * See Order Serial.
+### Admin
   * Authentication for admin.
-  * Add daily number of meals.
-  * Add missing date meals.
-  * Add / Delete grocery total amount
-  * Show total meal of each member, meal rate,
-  * Clean all Data. 
-  * Dashboard. 
-  * The amount of money need to pay end of the month.
+  * Admin Dashboard for delivering the order.
+  * Delete orders
+  * Clean all Orders. 
+  * Show All order details. 
   
 <p align="right">(<a href="#top">back to top</a>)</p>
   
